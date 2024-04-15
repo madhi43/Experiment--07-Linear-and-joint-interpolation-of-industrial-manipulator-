@@ -1,5 +1,9 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
+### Name: Srimathi K
+### Roll no: 212221040161
+### Dept : CSE
+
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
@@ -36,7 +40,9 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
+DART studio screen shots for linear interpolation and DART studio screen shots for joint interpolation 
+
+![image](https://github.com/madhi43/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/103943383/92d1fc3b-db61-4d05-82c7-6290667bc470)
 
 
 
@@ -46,19 +52,20 @@ DART studio screen shots for linear interpolation
 
 
 
-DART studio screen shots for joint interpolation 
 
 
 
 
 
+### Robot movements :
 
 
 
-### Robot movements 
+
+![image](https://github.com/madhi43/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/103943383/6e513472-e306-43b3-bfd6-a9da7f749989)
 
 
-
+![image](https://github.com/madhi43/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/103943383/6e513472-e306-43b3-bfd6-a9da7f749989)
 
 
 
@@ -71,3 +78,4 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+    The program for linear and joint interpolation of industrial manipulator is developed  successfully
