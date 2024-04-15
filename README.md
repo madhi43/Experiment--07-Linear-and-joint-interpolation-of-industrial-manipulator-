@@ -65,7 +65,8 @@ DART studio screen shots for linear interpolation and DART studio screen shots f
 ![image](https://github.com/madhi43/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/103943383/6e513472-e306-43b3-bfd6-a9da7f749989)
 
 
-![image](https://github.com/madhi43/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/103943383/6e513472-e306-43b3-bfd6-a9da7f749989)
+![image](https://github.com/madhi43/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/103943383/42b61d1e-b893-4984-bd87-034230c29770)
+
 
 
 
