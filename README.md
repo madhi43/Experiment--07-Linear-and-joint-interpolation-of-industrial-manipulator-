@@ -5,7 +5,7 @@
 ### Dept : CSE
 
 ### Aim :
-      To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
+To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
 ### Equipment Required: 
       Instrial manipulator , teach pendant and associated program platform 
