@@ -79,4 +79,4 @@ DART studio screen shots for linear interpolation and DART studio screen shots f
 
 
 ### Results:  
-    The program for linear and joint interpolation of industrial manipulator is developed  successfully
+The program for linear and joint interpolation of industrial manipulator is developed  successfully.
