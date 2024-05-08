@@ -8,10 +8,10 @@
 To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform 
+Instrial manipulator , teach pendant and associated program platform 
       
 ### Theory 
-    The following interpolation schemes are available in most of the robot controllers.
+The following interpolation schemes are available in most of the robot controllers.
 1. Joint interpolation
 2. Straight line interpolation
 3. Circular interpolation
@@ -36,7 +36,7 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ![Robot-interpolation-PTP-LIN-CIRC](https://user-images.githubusercontent.com/36288975/201615171-d0886aaa-8220-4b0c-8a1d-3d8a5c69c76a.png)
 
-### Figure -01 difference between P-P , joint and linear interpolation 
+Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 
 
 ### Program : 
